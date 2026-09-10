@@ -3,7 +3,7 @@
 Transformamos el interés en comunidad: conoce cómo aportamos al ecosistema Open Source, nuestros artículos técnicos y cómo sumarte al equipo de ingeniería.
 
 ## Tech Blog ✍️
-Curaduría de nuestros aprendizajes y desafíos técnicos reales:
+Compartimos lo que vamos aprendiendo en el camino mientras resolvemos problemas reales:
 
 *   **Claude en Buk:** Del copiloto al agente autónomo.
 *   **De low-code a Rails:** La migración y sus aprendizajes de arquitectura.
